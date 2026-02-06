@@ -3,12 +3,7 @@
 import { useState } from 'react'
 
 const BLOCKED_DOMAINS = [
-  'gmail.com',
-  'outlook.com',
-  'mail.com',
-   "icloud.com",
-   "yahoo.com",
-   "hotmail.com"
+  'gmail.com','outlook.com','mail.com',"icloud.com","yahoo.com","hotmail.com"
 ]
 
 export default function Home() {
